@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "mqtt": "^3.0.0",
+    "mqtt": "^4.3.7",
     "pushover-notifications": "^1.2.0"
   }
 }
